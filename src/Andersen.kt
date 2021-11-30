@@ -1,2 +1,1 @@
-class Andersen {
-}
+data class Andersen (val name: String, val age: Int)
